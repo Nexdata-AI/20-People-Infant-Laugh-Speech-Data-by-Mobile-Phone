@@ -1,8 +1,10 @@
 # 20-People-Infant-Laugh-Speech-Data-by-Mobile-Phone
-https://www.datatang.ai/datasets/1090
+
 
 ## Description
 Laugh sound of 20 infants and young children aged 0~3 years old, a number of paragraphs from each of them; It provides data support for detecting children's laugh sound in smart home projects.
+
+For more details, please refer to the link: https://bit.ly/3C9k3FD
 
 ## Format
 44.1kHz/22..5kHz, 16bit, uncompressed wav, mono channel
@@ -21,3 +23,6 @@ iPhone, Android mobile phone;
 
 ## Application scenarios
 abnormal voice recognition; smart home
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
