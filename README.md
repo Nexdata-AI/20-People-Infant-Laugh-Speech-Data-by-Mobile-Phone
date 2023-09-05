@@ -4,7 +4,8 @@
 ## Description
 Laugh sound of 20 infants and young children aged 0~3 years old, a number of paragraphs from each of them; It provides data support for detecting children's laugh sound in smart home projects.
 
-For more details, please refer to the link: https://bit.ly/3C9k3FD
+For more details, please refer to the link: https://www.nexdata.ai/datasets/1090?source=Github
+
 
 ## Format
 44.1kHz/22..5kHz, 16bit, uncompressed wav, mono channel
